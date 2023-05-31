@@ -3,7 +3,7 @@
     "username": "postgres",
     "database": "ilovegroup3_development",
     "host": "127.0.0.1",
-    "dialect": "postrges"
+    "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
