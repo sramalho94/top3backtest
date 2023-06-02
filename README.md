@@ -10,6 +10,10 @@
 
 #### This project will serve as a very brief introduction to using Jest for unit testing, specifically for testing controllers and routes for models
 
+### If you would like to continue building out the project, I've included a link to the Entity Relationship Diagram
+
+[ERD](https://drive.google.com/file/d/16o9itGdFT5nF5aVu2nQWsFuYs4Q3zSR1/view?usp=sharing)
+
 ---
 
 ## Getting Started
