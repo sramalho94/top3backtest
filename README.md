@@ -54,6 +54,8 @@
   - create a server.js and StartServer.js
   - after configuring those files, set up routes and controllers
   - run `npm install --save-dev supertest`
-    -make test directory and create test file
-    -set up a test script in your package.json
+
+  -make test directory and create test file
+  -set up a test script in your package.json
+
   - if your tests pass you can move on to setting up Continuous Integration through Github Actions
